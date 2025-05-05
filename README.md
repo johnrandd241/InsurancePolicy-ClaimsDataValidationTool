@@ -85,6 +85,4 @@ Each claim is validated with a result like:
 
 "Invalid policy ID"
 
-👨‍💼 Author
-John Rand
-https://www.linkedin.com/in/johnrand271/
+👨‍💼 Author: John Rand
